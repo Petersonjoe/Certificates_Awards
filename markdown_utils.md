@@ -81,8 +81,8 @@ not supported by github markdown
 
 #### code
 ```html
-<img src="./images/people.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" />
+<img src="./people.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" />
 ```
 
 #### displayed as
-<img src="./images/people.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" />
+<img src="./people.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" />
